@@ -1,0 +1,5 @@
+# data simulator
+ssh -i "kafka-stock-market-ssh-key.pem" ec2-user@ec2-13-212-81-161.ap-southeast-1.compute.amazonaws.com
+
+# kafka
+ssh -i ".ssh/kafka-stock-market-ssh-key.pem" ec2-user@ec2-13-212-153-162.ap-southeast-1.compute.amazonaws.com
